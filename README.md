@@ -8,7 +8,7 @@ brew install pillow numpy
 ```
 ✅ If you've installed Pillow and NumPy via brew or pip, you're good to go.
 
-### Works best with CrowPanel ESP32 2.9" nametag firmware
+### Works best with [CrowPanel ESP32 2.9" nametag firmware](https://github.com/MariusQuabeck/CrowPanel-ESP32-2.9-inch-nametag-firmware/tree/main)
 
 ## 📁 Files
 binner.py – The converter script.
